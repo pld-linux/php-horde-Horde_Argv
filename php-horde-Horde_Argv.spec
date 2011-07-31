@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde command-line argument parsing package
 Name:		php-horde-Horde_Argv
-Version:	1.0.1
+Version:	1.0.4
 Release:	1
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	5639e01d27d0ded0099638a677c27015
+# Source0-md5:	4c47514afffbd6320de895ba47b2cfe2
 URL:		https://github.com/horde/horde/tree/master/framework/Argv/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
