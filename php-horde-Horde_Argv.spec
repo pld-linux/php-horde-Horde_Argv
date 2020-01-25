@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Argv
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde command-line argument parsing package
 Name:		php-horde-Horde_Argv
 Version:	1.0.5
